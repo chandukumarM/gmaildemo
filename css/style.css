@@ -1,0 +1,70 @@
+#brand{height:60px}
+#btn1{padding: 15px}
+#topbar{background-color:rgb(234, 237, 241);}
+#btn{ padding:5px 15px;background-color: rgb(104, 176, 212);border: 0px rgb(104, 176, 212);border-radius: 3px}
+#font{font-size: 38px; padding:40px 20px}
+#hid{display: none;
+}
+#email{width:90%;position: absolute;border-radius:px}
+#fname{width: 49%; border-radius:px}
+#lname{width: 49%; border-radius:px}
+#pwd{width: 99%; border-radius:px}
+#cpwd{width: 99%; border-radius:px}
+#menu1{height: 26px;padding-top: 1px;}
+#day{width: 49%; border-radius:px}
+#year{width: 49%; border-radius:px}
+#gender{width: 99%;height:25px; border-radius:px}
+#mob{width: 99%; border-radius:px;}
+#cemail{width: 99%; border-radius:px}
+#dfd{width: 99%;height: 25px}
+#next{padding-top: 25px}
+#bttt{color:#fff;background-color: rgb(66, 196, 237);border: 0;padding: 5px 8px}
+#btt1{height: 26px;padding-top: 1px;}
+#cccc{background-color:rgb(234, 237, 241);padding-top: 17px;padding-bottom: 17px}
+#ppp{visibility: hidden;}
+#ppt{visibility: hidden;}
+.ind{width:15px}
+.hd{padding-top:18px;padding-bottom: 5px}
+.hd{font-size: 24px}
+.bhb{font-size: 24px}
+#hj{width: 340px}
+#mcss{height:28px;width:;margin-right: 10px}
+#lk{padding-top: 15px;padding-bottom: 15px;padding-right:5px; font-size: 14px; padding-left: }
+#vbr{height: 26px}
+
+#lg{padding:15px 5px;font-size: 14px}
+.eee{font-size: 14px}
+.footer{background-color: rgb(223, 228, 223);border: 1px rgb(199, 196, 196);margin-top: 70px;height: 35px;padding: 10px}
+.dgd{padding-top: 20px}
+#inside{position:relative;left:70%; z-index: 1}
+
+#pbr{padding-top: 2px}
+
+#fgr{position: absolute; top:103%;padding: 0px}
+
+.mbr{visibility: hidden;height: 20px}
+
+@media only screen and (max-width: 500px) {
+    #ckc {
+      display: none !important;
+    }
+    #brand{height:45px !important;float: left !important}
+    #btn1{padding: 4px !important;float: right !important}
+    .xxx{text-align: center!important}
+    #inside{position:relative;left:65% !important; }
+      #font{font-size: 28px; padding:28px 20px}
+      #fgr{font-size: 14px !important}
+      #baby{align-items: center;margin-left: 32%}
+      #nbk{position: absolute;z-index: 2;left:28%}
+      .footer{background-color: rgb(223, 228, 223);border: 1px rgb(199, 196, 196);height: 65px;padding: 6px;font-size:12px}
+
+}
+@media only screen and (max-width: 320px) {
+    #inside{position:relative;left:48% !important;}
+    #email{width:84%;position: absolute;border-radius:2px}
+    #fname{width: 99%; border-radius:2px}
+    #lname{width: 99%; border-radius:2px}
+    #font{font-size: 20px; padding:20px 20px}
+  #eek{font-size: 12px}
+  #fgr{font-size: 13px !important}
+}
